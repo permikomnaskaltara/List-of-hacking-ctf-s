@@ -25,6 +25,6 @@ Here's a updated list of new ctf challenges. Feel free for adding some sites wit
  
 ## Offline
 
-+ [Damn Vulnerable Web Application - DVWA]
-+ [Google Gruyere - Web Application Exploit and Defense]
++ [Damn Vulnerable Web Application - DVWA](http://www.dvwa.co.uk/)
++ [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 + [Exploit Exercise](https://exploit-exercises.com/)
