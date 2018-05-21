@@ -11,6 +11,7 @@ Here's a updated list of new ongoing ctf challenges. Feel free for adding some s
 + [HachTheBox](https://www.hackthebox.eu/login)
 + [PicoCTF](https://picoctf.com/) (A CTF for middle and high school students)
 + [CTFlearn](http://ctflearn.com/) (user-contributed challenges)
++ [Hacking-lab](https://www.hacking-lab.com/index.html)
 
 **WebApp Specific:**
 + [Pentesterlab](https://pentesterlab.com/)
