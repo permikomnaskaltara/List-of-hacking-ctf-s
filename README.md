@@ -1,5 +1,5 @@
 # List of hacking ctf's
-Here's a updated list of new ctf challenges. Feel free for adding some sites with a push request!
+Here's a updated list of new ongoing ctf challenges. Feel free for adding some sites with a push request!
 
 ## Available online
 
