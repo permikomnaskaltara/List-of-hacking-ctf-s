@@ -28,5 +28,6 @@ Here's a updated list of new ongoing ctf challenges. Feel free for adding some s
 + [Damn Vulnerable Web Application - DVWA](http://www.dvwa.co.uk/)
 + [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 + [Exploit Exercise](https://exploit-exercises.com/)
++ [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 
 ##Gone
