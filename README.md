@@ -1,7 +1,7 @@
 # List of hacking ctf's
 Here's a updated list of new ctf challenges. Feel free for adding some sites with a push request!
 
-## Available online to play
+## Available online
 
 + [Root Me](https://www.root-me.org/) (Root-Me is a non-profit organization which goal is to promote the spread of knowledge related to hacking and information security)
 + [Pwnerrank](https://www.pwnerrank.com/)
